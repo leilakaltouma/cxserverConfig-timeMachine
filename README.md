@@ -1,7 +1,7 @@
 ## cxserverConfig-timeMachine
 
 
-This repository contains a minimal integration of two tasks, T331202 and T331201, related to configuration evolution over time in the cxserver/config repository. The data is being fetched from all commits since 2017 in the cxserver/config repository. Each relevant config/*.yaml commit is parsed and then outputted as JSON.
+This repository contains a minimal integration of two tasks, [evolution-over-time-parser](https://github.com/leilakaltouma/evolution-over-time-parser) and [cxserver](https://github.com/leilakaltouma/cxserver), related to configuration evolution over time in the cxserver/config repository. The data is being fetched from all commits since 2017 in the cxserver/config repository. Each relevant config/*.yaml commit is parsed and then outputted as JSON.
 
 ## Installation
 
